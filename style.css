@@ -267,3 +267,27 @@ font-weight:600;
 height:40px;
 width:auto;
 }
+
+
+
+.linkedin{
+background:#0077b5;
+}
+
+.linkedin:hover{
+background:#005f8e;
+}
+
+.contact-email{
+margin-top:20px;
+font-size:16px;
+}
+
+.contact-email a{
+color:#00c6ff;
+text-decoration:none;
+}
+
+.contact-email a:hover{
+text-decoration:underline;
+}
